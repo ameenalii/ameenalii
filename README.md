@@ -1,6 +1,6 @@
 # Ameen Ali Hussein
 
-## junior Js Developer
+## Junior Js Developer
 
 ### Languages and Tools That I use:
 
